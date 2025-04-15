@@ -1,0 +1,7 @@
+Min Degree	1
+Average In-Degree	4.044924560346272
+Max In-Degree	4153
+Min In-Degree	0
+Average Out-Degree	4.044925108575221
+Max Out-Degree	51
+Min Out-Degree	0
