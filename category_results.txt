@@ -1,0 +1,25 @@
+ UNA 	42928
+Autos & Vehicles	169881
+Autos &amp; Vehicles	2
+Comedy	449652
+Education	54133
+Entertainment	1304724
+Film & Animation	442095
+Film &amp; Animation	14
+Gaming	10182
+Howto & Style	124880
+Howto &amp; Style	5
+Music	1274825
+News & Politics	186748
+News &amp; Politics	5
+Nonprofits & Activism	16924
+Nonprofits &amp; Activism	1
+People & Blogs	447562
+People &amp; Blogs	19
+Pets & Animals	86440
+Pets &amp; Animals	4
+Science & Technology	50922
+Science &amp; Technology	3
+Sports	390619
+Travel & Events	82065
+Travel &amp; Events	3
