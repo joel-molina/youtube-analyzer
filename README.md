@@ -1,5 +1,6 @@
 ### Pre-requisite
 Hadoop installed on native Windows 11 device.
+Python installed.
 
 ## Run Hadoop
 In hadoop\sbin: 
@@ -26,3 +27,9 @@ job 2: hadoop jar CategoryDistribution.jar com.mycompany.hadoop.CategoryDistribu
 
 ### Download Output 
 hdfs dfs -get /user/output_temp/part-r-00000
+
+
+## Running python scripts
+In the terminal go to the directory where the scripts are located and run:
+python degreeVis.py
+python categoryVis.py
