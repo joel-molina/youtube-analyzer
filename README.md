@@ -3,7 +3,7 @@ Hadoop installed on native Windows 11 device.
 Python installed.
 
 ### Run Hadoop
-In hadoop\sbin: 
+In hadoop\sbin:  
 start-dfs.cmd
 start-yarn.cmd
 
