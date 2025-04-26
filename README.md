@@ -2,6 +2,17 @@
 Hadoop installed on native Windows 11 device.
 Python installed.
 
+# Preprocessing
+
+### To run ZIPextractor.py:
+After downloading all the data contained in zip files, create a new folder and add all zipped folders to it. 
+Using the command line, use “cd” to navigate to the location of the .py file.
+Use the command “python ZIPextractor.py [input directory] [output directory]” to start the extraction process. 
+
+### To run YouTubeDataProcessor.py
+After the files are extracted, use the command “python ZIPextractor.py [input directory] [output directory]”
+
+# Processing
 ### Run Hadoop
 In hadoop\sbin:  
 start-dfs.cmd  
