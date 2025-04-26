@@ -2,12 +2,12 @@
 Hadoop installed on native Windows 11 device.
 Python installed.
 
-## Run Hadoop
+### Run Hadoop
 In hadoop\sbin: 
 start-dfs.cmd
 start-yarn.cmd
 
-## Data upload
+### Data upload
 hdfs dfs -mkdir -p /user/youtube_data
 
 hdfs fs -put [local_data_file_path] [hdfs_destination_path]
